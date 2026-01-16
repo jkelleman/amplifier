@@ -1,3 +1,5 @@
+** TUTORIAL: Quick Start (90 Seconds): https://ramparte.github.io/amplifier-tutorial/ **
+
 # Amplifier
 
 **AI-powered modular development assistant - currently in early preview.**
